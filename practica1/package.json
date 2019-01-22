@@ -1,0 +1,15 @@
+{
+    "name": "Practica_1",
+    "version": "0.0.1",
+    "private": true,
+    "description": ":)",
+    "license": "MIT",
+    "author": "Arturo Amador Jose Pablo",
+    "directories": {
+        "doc": "doc",
+        "test": "tests"
+    },
+    "repository": "",
+    "start": "http-server -a localhost -p 8000",
+    "start-pc": "set PORT=3001&& react-scripts start",
+}
